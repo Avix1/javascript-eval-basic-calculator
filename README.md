@@ -1,6 +1,6 @@
 # Javascript Basic Calculator Using Eval
 
-This is my project .... i did a calculator ....
+This is my project, just a simple calculator.
 
 
 # Tech Stack
