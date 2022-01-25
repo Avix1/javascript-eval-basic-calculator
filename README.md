@@ -1,11 +1,16 @@
-# Javascript Basic Calculator Using Eval
+<h3 align="center">JavaScript Calculator</h3>
+<br>
+<p align="center">
+  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-Setup">Setup</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-This is my project, just a simple calculator.
+## :rocket: Technologies
 
+- [Javascript](https://javascript.info)
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-# Tech Stack
+## :wrench: Setup
 
-For this simple project i've just used basic Javascript, HTML and CSS. No libraries added.
-
-## Setup
-Open with your preffered browser the index.html file.
+* Just open the index.html file with your preferred browser.
